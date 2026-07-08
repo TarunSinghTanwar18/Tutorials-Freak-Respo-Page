@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+.section1 {
+  max-width: auto;
+}
+.container1 {
+  max-width: 1300px;
+  margin: 20px auto 0px auto;
+  padding: 0px 10px 0px 10px;
+}
+
+.container2 {
+  max-width: 1200px;
+  margin: 0px auto 0px auto;
+  padding: 0px 10px 0px 10px;
+}
+
+button:hover {
+  cursor: pointer;
+}
